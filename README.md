@@ -4,11 +4,11 @@
 - - - 
 
 # 목차
-### 1. [프로젝트 설명](https://github.com/sooookyung/kosmo-proj-final#rocket-프로젝트-설명 "프로젝트설명")                  
+### 1. [프로젝트 설명](https://github.com/sooookyung/kosmo-proj-final#프로젝트-설명 "프로젝트설명")                  
 ### 2. [개발기간](https://github.com/sooookyung/kosmo-proj-final#개발기간 "개발기간")         
-### 3. [데이터베이스(DB) 설계](https://github.com/sooookyung/kosmo-proj-final#-데이터베이스db-설계 "db설계")         
-### 4. [사용기술](https://github.com/sooookyung/kosmo-proj-final#%EF%B8%8F-languages-and-tools "사용기술")         
-### 5. [기능소개](https://github.com/sooookyung/kosmo-proj-final#-기능소개 "기능소개")         
+### 3. [데이터베이스(DB) 설계](https://github.com/sooookyung/kosmo-proj-final#데이터베이스db-설계 "db설계")         
+### 4. [사용기술](https://github.com/sooookyung/kosmo-proj-final#Languages-and-Tools "사용기술")         
+### 5. [기능소개](https://github.com/sooookyung/kosmo-proj-final#기능소개 "기능소개")         
 
 
 - - - 
@@ -24,7 +24,7 @@
 ![핀터레스트_모델링](https://github.com/sooookyung/pinterest_front/assets/142128972/f4b793e1-b3b0-4fc2-b9d8-796abe2954a5)
 
 - - -
-# Languagr and Tools
+# Languages and Tools
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">    
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"> <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white">     
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
