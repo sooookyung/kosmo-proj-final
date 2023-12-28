@@ -6,7 +6,7 @@
 # 📋 목차
 ### 1. [프로젝트 설명](https://github.com/sooookyung/kosmo-proj-final#프로젝트-설명 "프로젝트-설명")                  
 ### 2. [개발기간](https://github.com/sooookyung/kosmo-proj-final#개발기간 "개발기간")         
-### 3. [데이터베이스(DB) 설계](https://github.com/sooookyung/kosmo-proj-final#데이터베이스(DB)설계 "db설계")         
+### 3. [데이터베이스(DB) 설계](https://github.com/sooookyung/kosmo-proj-final#데이터베이스(db)설계 "db설계")         
 ### 4. [사용기술](https://github.com/sooookyung/kosmo-proj-final#Languages-and-Tools "사용기술")         
 ### 5. [기능소개](https://github.com/sooookyung/kosmo-proj-final#기능소개 "기능소개")         
 
